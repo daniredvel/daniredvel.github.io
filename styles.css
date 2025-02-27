@@ -294,7 +294,7 @@ a.ig:active {
     }
 
     nav ul li {
-        margin: 10px 0;
+        margin: 10px 5px;
         flex-direction: row;
 
     }
