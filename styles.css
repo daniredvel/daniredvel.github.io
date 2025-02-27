@@ -302,10 +302,11 @@ a.ig:active {
     main {
         margin: 20px;
         padding: 10px;
+
     }
     
     .texto {
-        font-size: 10px;
+        font-size: 20px;
     }
     
     .centered-title {
