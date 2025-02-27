@@ -295,11 +295,14 @@ a.ig:active {
 
     nav ul li {
         margin: 0 10px;
+        flex-direction: row;
+
     }
 
     main {
         margin: 20px;
         padding: 10px;
+        font-size: 20px;
     }
 
     .centered-title {
