@@ -298,7 +298,7 @@ a.ig:active {
         flex-direction: row;
     }
     nav ul li a {
-        font-size: 90px;
+        font-size: 10px;
     }
 
     main {
@@ -308,7 +308,7 @@ a.ig:active {
     }
     
     .texto {
-        font-size: 15px;
+        font-size: 50px;
     }
     
     .centered-title {
