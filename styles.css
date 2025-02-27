@@ -295,7 +295,6 @@ a.ig:active {
     }
 
     nav ul {
-        flex-direction: column;
         align-items: center;
     }
 
