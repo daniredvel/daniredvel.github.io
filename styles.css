@@ -296,6 +296,8 @@ a.ig:active {
     nav ul li {
         margin: 5px;
         flex-direction: row;
+    }
+    nav ul li a {
         font-size: 10px;
     }
 
