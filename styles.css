@@ -27,7 +27,6 @@ html, body {
 
 body {
     display: flex;
-    flex-direction: column;
     justify-content: space-between;
 }
 
@@ -100,7 +99,6 @@ main.index {
     padding: 20px;
 }
 main {
-    flex-direction: column; /* Alinea los elementos en columna */
     display: block; /* Asegura que los hijos estén uno debajo del otro */
     text-align: left; /* Ajusta la alineación del texto */
     padding: 20px;
