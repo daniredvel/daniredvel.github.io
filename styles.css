@@ -304,9 +304,11 @@ a.ig:active {
         padding: 10px;
         font-size: 20px;
     }
-    .text{
-        font-size: 20px;
+    .text {
+        font-size: 5px;
     }
+
+    
 
     .centered-title {
         font-size: 50px;
@@ -328,7 +330,9 @@ a.ig:active {
         width: 100px;
     }
 
-    
+    #home p {
+        font-size: 20px;
+    }
 
     footer p {
         font-size: 16px;
