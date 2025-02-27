@@ -294,7 +294,7 @@ a.ig:active {
     }
 
     nav ul li {
-        margin: 10px 0;
+        margin: 0 10px;
         flex-direction: row;
 
     }
@@ -302,7 +302,6 @@ a.ig:active {
     main {
         margin: 20px;
         padding: 10px;
-        font-size: 20px;
     }
     
     .texto{
